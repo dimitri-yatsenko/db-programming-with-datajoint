@@ -32,6 +32,5 @@ students = make_students()
 student_id = itertools.count()
 
 def insert(Student, number_of_students):
-    
-    for _, student in zip(range(number_of_students), students):
-        Student.insert1(dict(student, student_id=next(student_id)))
+    Student.insert(dict(student, student_id=next(student_id))
+        for _, student in zip(range(number_of_students), students))
