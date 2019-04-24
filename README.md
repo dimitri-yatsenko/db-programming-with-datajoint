@@ -33,6 +33,7 @@ A series of quick video tutorials
 
 ## (upcoming) "Work with Filepaths"
 
+=================================
 
 **Minicourse A: Database Programming in DataJoint for Python**
 
@@ -42,7 +43,7 @@ A series of quick video tutorials
     - attributes and their types
     - primary key 
     - insert and delete
-    - manual tables and lookup tables 
+    - lookup tables 
     - fetch, head, tail, iterations  
     - restrict and proj
     - drop and alter 
@@ -53,6 +54,9 @@ A series of quick video tutorials
     - spawning classes 
     - transactions, master-part relationship
     - diagramming
+    - patterns: hierarchy
+    - patterns: membership 
+    - patterns: pairings and groupings 
 3. Advanced Queries
     - join
     - aggr  
@@ -67,6 +71,8 @@ A series of quick video tutorials
 
 1. Computed tables
     - `populate` and `make` methods
+    - patterns: parameterization
+    - patterns: groupings
 2. Master-Part relationship 
 3. Distributed processing
 4. Customized computations
