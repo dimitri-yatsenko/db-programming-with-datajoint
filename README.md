@@ -33,9 +33,9 @@ A series of quick video tutorials
 
 ## (upcoming) "Work with Filepaths"
 
-=================================
+---------------------------
 
-**Minicourse A: Database Programming in DataJoint for Python**
+### Minicourse A: Database Programming in DataJoint for Python
 
 1. Work with Tables
     - schema
@@ -67,7 +67,7 @@ A series of quick video tutorials
     - external stores, cloud storage
     - filepaths 
 
-**Minicourse B: Pipeline Programming in DataJoint for Python**
+### Minicourse B: Pipeline Programming in DataJoint for Python
 
 1. Computed tables
     - `populate` and `make` methods
@@ -77,5 +77,3 @@ A series of quick video tutorials
 3. Distributed processing
 4. Customized computations
     - custom `key_source`
-
-
