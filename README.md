@@ -1,5 +1,5 @@
 # Database Programming with DataJoint
-A series of of quick video tutorials
+A series of quick video tutorials
 
 ## 2019-03-04: "Using UUIDs"
 [![Using UUIDs in DataJoint](https://img.youtube.com/vi/bg_rEkczG7U/0.jpg)](https://youtu.be/bg_rEkczG7U)
@@ -19,7 +19,57 @@ A series of of quick video tutorials
 * Notebook [Spawning-Classes.ipynb](notebooks/Spawning-Classes.ipynb)
 * [NBViewer](https://nbviewer.jupyter.org/github/vathes/db-programming-with-datajoint/blob/master/notebooks/Spawning-Classes.ipynb)
 
+-------------------
+**upcoming**
+
 ## (upcoming) "Altering Table Definitions"
 
 * Notebook [Alter.ipynb](notebooks/Alter.ipynb)
 * [NBViewer](https://nbviewer.jupyter.org/github/vathes/db-programming-with-datajoint/blob/master/notebooks/Alter.ipynb)
+
+## (upcoming) "Work with Blobs"
+
+## (upcoming) "Work with Attachments"
+
+## (upcoming) "Work with Filepaths"
+
+
+**Minicourse A: Database Programming in DataJoint for Python**
+
+1. Work with Tables
+  * schema
+  * tables and classes
+  * attributes and their types
+  * primary key 
+  * insert and delete
+  * manual tables and lookup tables 
+  * fetch, head, tail, iterations  
+  * restrict and proj
+  * drop and alter 
+2. Dependencies
+  * primary and secondary dependencies 
+  * renamed attributes 
+  * python modules 
+  * spawning classes 
+  * transactions, master-part relationship
+  * diagramming
+3. Advanced Queries
+  * join
+  * aggr  
+  * universal sets 
+  * union 
+4. Scientific Data and Big Data 
+  * blobs, attachments
+  * external stores, cloud storage
+  * filepaths 
+
+**Minicourse B: Pipeline Programming in DataJoint for Python**
+
+1. Computed tables
+  * `populate` and `make` methods
+2. Master-Part relationship 
+3. Distributed processing
+4. Customized computations
+  * custom `key_source`
+
+
