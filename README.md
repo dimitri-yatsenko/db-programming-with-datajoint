@@ -38,25 +38,27 @@ A series of quick video tutorials
 ### Minicourse A: Database Programming in DataJoint for Python
 
 1. Work with Tables
-    - schema
+    - connections, schemas, `dj.config`
     - tables and classes
     - attributes and their types
     - primary key 
     - insert and delete
     - lookup tables 
-    - fetch, head, tail, iterations  
+    - fetch, head, tail
+    - iterations  
     - restrict and proj
+    - insert from query
     - drop and alter 
 2. Dependencies
     - primary and secondary dependencies 
-    - renamed attributes 
     - python modules 
     - spawning classes 
     - transactions, master-part relationship
     - diagramming
-    - patterns: hierarchy
-    - patterns: membership 
-    - patterns: pairings and groupings 
+    - renamed attributes 
+    - patterns: hierarchy, membership, pairings and groupings 
+    - unique and optional dependencies
+    - indexes
 3. Advanced Queries
     - join
     - aggr  
@@ -71,9 +73,10 @@ A series of quick video tutorials
 
 1. Computed tables
     - `populate` and `make` methods
-    - patterns: parameterization
-    - patterns: groupings
+    - patterns: parameterization and grouping
 2. Master-Part relationship 
 3. Distributed processing
+    - jobs table
+    - `dj.kill`
 4. Customized computations
     - custom `key_source`
