@@ -37,39 +37,39 @@ A series of quick video tutorials
 **Minicourse A: Database Programming in DataJoint for Python**
 
 1. Work with Tables
-  * schema
-  * tables and classes
-  * attributes and their types
-  * primary key 
-  * insert and delete
-  * manual tables and lookup tables 
-  * fetch, head, tail, iterations  
-  * restrict and proj
-  * drop and alter 
+    - schema
+    - tables and classes
+    - attributes and their types
+    - primary key 
+    - insert and delete
+    - manual tables and lookup tables 
+    - fetch, head, tail, iterations  
+    - restrict and proj
+    - drop and alter 
 2. Dependencies
-  * primary and secondary dependencies 
-  * renamed attributes 
-  * python modules 
-  * spawning classes 
-  * transactions, master-part relationship
-  * diagramming
+    - primary and secondary dependencies 
+    - renamed attributes 
+    - python modules 
+    - spawning classes 
+    - transactions, master-part relationship
+    - diagramming
 3. Advanced Queries
-  * join
-  * aggr  
-  * universal sets 
-  * union 
+    - join
+    - aggr  
+    - universal sets 
+    - union 
 4. Scientific Data and Big Data 
-  * blobs, attachments
-  * external stores, cloud storage
-  * filepaths 
+    - blobs, attachments
+    - external stores, cloud storage
+    - filepaths 
 
 **Minicourse B: Pipeline Programming in DataJoint for Python**
 
 1. Computed tables
-  * `populate` and `make` methods
+    - `populate` and `make` methods
 2. Master-Part relationship 
 3. Distributed processing
 4. Customized computations
-  * custom `key_source`
+    - custom `key_source`
 
 
