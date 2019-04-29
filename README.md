@@ -19,14 +19,14 @@ A series of quick video tutorials
 * Notebook [Spawning-Classes.ipynb](notebooks/Spawning-Classes.ipynb)
 * [NBViewer](https://nbviewer.jupyter.org/github/vathes/db-programming-with-datajoint/blob/master/notebooks/Spawning-Classes.ipynb)
 
--------------------
-**upcoming**
-
-## (upcoming) "Altering Table Definitions"
-
-[![Altering Table Definitions](https://img.youtu.be/vi/utrbqjhk9_s/0.jpg)](https://youtu.be/utrbqjhk9_s)
+# 2019-04-26: "Altering Table Definitions"
+[![Altering Table Definitions](https://img.youtube.com/vi/utrbqjhk9_s/0.jpg)](https://youtu.be/utrbqjhk9_s)
 * Notebook [Alter.ipynb](notebooks/Alter.ipynb)
 * [NBViewer](https://nbviewer.jupyter.org/github/vathes/db-programming-with-datajoint/blob/master/notebooks/Alter.ipynb)
+
+
+-------------------
+**upcoming**
 
 ## (upcoming) "Work with Blobs"
 
