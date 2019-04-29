@@ -24,6 +24,7 @@ A series of quick video tutorials
 
 ## (upcoming) "Altering Table Definitions"
 
+[![Altering Table Definitions](https://img.youtu.be/vi/utrbqjhk9_s/0.jpg)](https://youtu.be/utrbqjhk9_s)
 * Notebook [Alter.ipynb](notebooks/Alter.ipynb)
 * [NBViewer](https://nbviewer.jupyter.org/github/vathes/db-programming-with-datajoint/blob/master/notebooks/Alter.ipynb)
 
